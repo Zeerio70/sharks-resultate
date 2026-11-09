@@ -1,0 +1,12 @@
+{
+  "name": "sharks-resultate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Holt die Spieltage und Resultate der UHC Sharks Kägiswil/Alpnach von rEvolution ZSUV und erzeugt eine einbettbare Seite.",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}
